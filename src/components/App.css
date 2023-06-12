@@ -1,0 +1,13 @@
+
+.loginconatiner
+{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.btn
+{
+    width:200px;
+    background-color:black;
+    color:black;
+}
